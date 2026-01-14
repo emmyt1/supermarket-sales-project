@@ -91,10 +91,9 @@ Contributions welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
-Olubunmi, Oluwaseun Emmanuel
-GitHub: @yourusername
-LinkedIn: Your Profile
-Portfolio: yourportfolio.com
+**Oluwaseun E. Olubunmi**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ooluwaseun/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/emmyt1)
 
 ## 🙏 Acknowledgments
 - Kaggle for the dataset
