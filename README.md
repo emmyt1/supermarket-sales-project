@@ -57,14 +57,13 @@ A comprehensive data science project analyzing supermarket transaction data to b
 4. **Loyalty Expansion**: Capitalize on higher member spending
 
 ## 🏗️ Project Structure
-supermarket-sales-prediction/
-├── notebooks/ # Jupyter notebooks with full analysis
-├── src/ # Modular Python scripts
-├── reports/ # Final report and visualizations
-├── data/ # Processed datasets
-├── models/ # Saved trained models
-└── tests/ # Unit tests
-
+```supermarket-sales-prediction/
+├── LICENSE/ # License page
+├── README.md/ # This file
+├── business_insights.png/ # Dashboard Visualization
+├── requirements.txt/ # Key requirements
+└── supermarket_sales_project(O.O.E)/ # Jupyter notebook with full analysis
+```
 
 ## 🚀 Getting Started
 
